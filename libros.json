@@ -1,0 +1,24 @@
+{
+    "libros": [
+      {
+        "id": "1",
+        "title": "The Hunger Games",
+        "autor": "Susane Collins"
+      },
+      {
+        "id": "2",
+        "title": "La lluia sabe porque",
+        "autor": "María Fernanda Heredia"
+      },
+      {
+        "id": "3",
+        "title": "Don Quijote de la Mancha",
+        "autor": "Miguel De Cervantes"
+      },
+      {
+        "id": "4",
+        "title": "La Odisea",
+        "autor": "Homero"
+      }
+    ]
+  }
